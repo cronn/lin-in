@@ -32,13 +32,13 @@ Go to the project directory
 Build an Image
 
 ```bash
-docker build -t LIN-IN:0.0.1 .
+docker build -t lin-in:0.0.1 .
 ```
 
 Run the Image
 
 ```bash
-docker run -p 8501:8501 LIN-IN:0.0.1
+docker run -p 8501:8501 lin-in:0.0.1
 ```
 
 The app is now live on http://localhost:8501/
