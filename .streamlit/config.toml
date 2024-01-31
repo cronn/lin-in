@@ -3,9 +3,10 @@ base="dark"
 primaryColor="#03c03c"
 
 [browser]
-gatherUsageStats = false
-serverPort = 8501
+gatherUsageStats=false
+serverPort=8501
 
 [server]
-enableCORS = false
-port = 8501
+enableCORS=false
+server.enableXsrfProtection=false
+port=8501
