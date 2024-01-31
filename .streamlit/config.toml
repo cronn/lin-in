@@ -8,5 +8,5 @@ serverPort=8501
 
 [server]
 enableCORS=false
-server.enableXsrfProtection=false
+enableXsrfProtection=false
 port=8501
