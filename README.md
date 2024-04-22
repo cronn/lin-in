@@ -26,7 +26,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd linkedin-visualizer
+  cd lin-in
 ```
 
 ### Using Docker
