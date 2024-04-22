@@ -13,6 +13,8 @@ Upload your LinkedIn data export to receive information about:
 - A graph of positions within your network
 - Overview of all your messages
 
+https://github.com/cronn/lin-in/assets/4086468/b597b62c-99b3-4d21-a443-f691700a9164
+
 ## Run Locally
 
 Clone the project
@@ -87,6 +89,4 @@ This is an extended fork of [Linkedin Visualizer](https://github.com/benthecoder
 - [Linkedin Analysis](https://github.com/tavishcode/linkedin_analysis/tree/master)
 - [Linkedin Network Visualization](https://github.com/Thanh-To/linkedin-network-visualization)
 - [Plotly Docs](https://plotly.com/python/treemaps/)
-
-
 
