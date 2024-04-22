@@ -1,5 +1,4 @@
 import streamlit.components.v1 as components
-import streamlit as st
 import pandas as pd
 import numpy as np
 
@@ -11,7 +10,6 @@ from thefuzz import process
 import plotly.express as px
 import networkx as nx
 from pyvis.network import Network
-import matplotlib
 import matplotlib.pyplot as plt
 from PIL import Image
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
