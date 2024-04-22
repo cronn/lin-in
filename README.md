@@ -50,7 +50,7 @@ The app is now live on http://localhost:8501/
 Create Conda environment
 
 ```bash
-  conda create --name env_name python=3.8
+  conda create --name env_name python=3.12.1
 ```
 
 Activate the environment
@@ -73,7 +73,7 @@ Run streamlit
 
 ### Using Poetry
 
-first make sure you have python 3.8
+first make sure you have python 3.12.1
 
 ```bash
   poetry install
