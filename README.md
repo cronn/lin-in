@@ -1,6 +1,8 @@
 # LIN-IN - LinkedIn Insights
 Analyse your LinkedIn connections and messages with some simple data science.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lin-in.streamlit.app)
+
 Caution: this is a quick and dirty simple toy project. No warranty! 
 
 ## Features
