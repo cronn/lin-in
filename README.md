@@ -15,7 +15,7 @@ Upload your LinkedIn data export to receive information about:
 - A graph of positions within your network
 - Overview of all your messages
 
-https://github.com/cronn/lin-in/assets/4086468/b597b62c-99b3-4d21-a443-f691700a9164
+https://github.com/cronn/lin-in/assets/4086468/6f6c8f94-ddf2-4f21-91eb-913e010bce29
 
 ## Run Locally
 
