@@ -133,5 +133,6 @@ data/
 
 .conda
 .vscode
+poetry.lock
 
 network.html
